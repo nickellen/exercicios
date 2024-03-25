@@ -1,3 +1,5 @@
+// Implementar código e descobrir valor gerado pela sequencia
+
 public class ex1 {
     
     public static void main(String[] args){
