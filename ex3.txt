@@ -1,7 +1,0 @@
-a) 9 - números ímpar
-b) 128 - números múltiplos de 2
-c) 64 - o quadrado dos números naturais
-d) 100 - o quadrado dos números pares, a partir do 2
-e) 13 - sequencia de fibonacci
-f) 200 - números naturais que começam com a letra d
-
